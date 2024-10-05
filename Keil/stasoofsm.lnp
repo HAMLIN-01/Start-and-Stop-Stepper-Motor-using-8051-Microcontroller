@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"stst.obj" 
+TO "stasoofsm" 
+RAMSIZE(256) 
